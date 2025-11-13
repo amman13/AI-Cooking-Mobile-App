@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>862012487177-4s16omdvqhdn1phsmmsan34gll40actb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.862012487177-4s16omdvqhdn1phsmmsan34gll40actb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>862012487177-4bt2d0egpkekv48r6s9sik8flctl0de4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGJcEoe0-EBZX4r_kpGHeleKr8kCtruyU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>862012487177</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.company.georgerecipeapp</string>
+	<key>PROJECT_ID</key>
+	<string>backend-a6b45</string>
+	<key>STORAGE_BUCKET</key>
+	<string>backend-a6b45.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:862012487177:ios:49a55eaac1080bebb86ad8</string>
+</dict>
+</plist>
